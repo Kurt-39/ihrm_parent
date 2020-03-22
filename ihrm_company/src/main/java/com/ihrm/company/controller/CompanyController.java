@@ -14,6 +14,7 @@ import java.util.List;
  * @Date: 2020/3/20 13:02
  * @Description:
  */
+@CrossOrigin
 @RestController
 @RequestMapping("/company")
 public class CompanyController {
