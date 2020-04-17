@@ -1,5 +1,6 @@
 package com.ihrm.company.service;
 
+import cn.hutool.core.convert.Convert;
 import com.ihrm.common.utils.IdWorker;
 import com.ihrm.company.dao.CompanyDao;
 import com.ihrm.domain.company.Company;
